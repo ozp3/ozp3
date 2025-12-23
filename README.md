@@ -39,13 +39,6 @@ An interactive idle/clicker game demonstrating event-driven architecture.
   </a>
 </p>
 
----
-
-### GitHub Stats
-![ozp3's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozp3&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozp3&layout=compact&theme=dark)
-
----
 <p align="center">
   <i>"Building tools to solve real-world problems."</i>
 </p>
