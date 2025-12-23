@@ -1,4 +1,4 @@
-### Hi there, I'm ozp3! 👋
+### Hi there, I'm ozp
 
 I'm a multidisciplinary developer focused on **System Administration**, **Blockchain Technologies**, and **Software Engineering**. I enjoy building high-performance tools, securing network infrastructures, and developing custom solutions from low-level logic to interactive applications.
 
