@@ -1,5 +1,3 @@
-### Hi there, I'm Barış
-
 AI Engineer working on **LLM compression**, **agent systems**, and
 **Kubernetes infrastructure**. I turn research into systems that run
 anywhere from consumer hardware to air-gapped environments.
