@@ -23,9 +23,3 @@ anywhere from consumer hardware to air-gapped environments.
 
 - **[Speculation or Substance? Rethinking How LLMs Get Faster](https://github.com/ozp3/speculative-decoding-vs-mtp)** (2026) · [DOI](https://doi.org/10.5281/zenodo.21504354)
 - **[Can We Trust Open-Weight Large Language Models?](https://github.com/ozp3/open-weight-llm-trust-boundary)** (2026) · [DOI](https://doi.org/10.5281/zenodo.21430999)
-
----
-
-### Connect
-
-[Hugging Face](https://huggingface.co/barozp) · [X](https://x.com/0xOzp)
